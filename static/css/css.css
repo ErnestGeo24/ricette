@@ -1,0 +1,16 @@
+.testo1{
+    font-family: Garamond;
+    text-align: center;
+    font-size: 75px;
+}
+.testo{
+    font-family: Garamond;
+    text-align: center;
+}
+.centrato{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  
